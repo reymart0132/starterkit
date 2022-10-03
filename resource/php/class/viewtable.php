@@ -1,5 +1,5 @@
 <?php
-require_once $_SERVER['DOCUMENT_ROOT'].'/starterkit/resource/php/class/core/init.php';
+require_once $_SERVER['DOCUMENT_ROOT'].'/coco/resource/php/class/core/init.php';
 require_once 'config.php';
 
 class viewtable extends config{
